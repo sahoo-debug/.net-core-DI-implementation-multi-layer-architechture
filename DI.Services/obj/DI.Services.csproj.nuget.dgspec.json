@@ -1,0 +1,250 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\SKSFile\\GITSERVER\\DotNetCoreDI\\DI.Services\\DI.Services.csproj": {}
+  },
+  "projects": {
+    "C:\\SKSFile\\GITSERVER\\DotNetCoreDI\\DI.Core.IRepository\\DI.Core.IRepository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\SKSFile\\GITSERVER\\DotNetCoreDI\\DI.Core.IRepository\\DI.Core.IRepository.csproj",
+        "projectName": "DI.Core.IRepository",
+        "projectPath": "C:\\SKSFile\\GITSERVER\\DotNetCoreDI\\DI.Core.IRepository\\DI.Core.IRepository.csproj",
+        "packagesPath": "C:\\Users\\adm-sahooson\\.nuget\\packages\\",
+        "outputPath": "C:\\SKSFile\\GITSERVER\\DotNetCoreDI\\DI.Core.IRepository\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\adm-sahooson\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\SKSFile\\GITSERVER\\DotNetCoreDI\\DI.Core.Repository\\DI.Core.Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\SKSFile\\GITSERVER\\DotNetCoreDI\\DI.Core.Repository\\DI.Core.Repository.csproj",
+        "projectName": "DI.Core.Repository",
+        "projectPath": "C:\\SKSFile\\GITSERVER\\DotNetCoreDI\\DI.Core.Repository\\DI.Core.Repository.csproj",
+        "packagesPath": "C:\\Users\\adm-sahooson\\.nuget\\packages\\",
+        "outputPath": "C:\\SKSFile\\GITSERVER\\DotNetCoreDI\\DI.Core.Repository\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\adm-sahooson\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\SKSFile\\GITSERVER\\DotNetCoreDI\\DI.Core.IRepository\\DI.Core.IRepository.csproj": {
+                "projectPath": "C:\\SKSFile\\GITSERVER\\DotNetCoreDI\\DI.Core.IRepository\\DI.Core.IRepository.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\SKSFile\\GITSERVER\\DotNetCoreDI\\DI.Services.Contract\\DI.Services.Contract.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\SKSFile\\GITSERVER\\DotNetCoreDI\\DI.Services.Contract\\DI.Services.Contract.csproj",
+        "projectName": "DI.Services.Contract",
+        "projectPath": "C:\\SKSFile\\GITSERVER\\DotNetCoreDI\\DI.Services.Contract\\DI.Services.Contract.csproj",
+        "packagesPath": "C:\\Users\\adm-sahooson\\.nuget\\packages\\",
+        "outputPath": "C:\\SKSFile\\GITSERVER\\DotNetCoreDI\\DI.Services.Contract\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\adm-sahooson\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\SKSFile\\GITSERVER\\DotNetCoreDI\\DI.Services\\DI.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\SKSFile\\GITSERVER\\DotNetCoreDI\\DI.Services\\DI.Services.csproj",
+        "projectName": "DI.Services",
+        "projectPath": "C:\\SKSFile\\GITSERVER\\DotNetCoreDI\\DI.Services\\DI.Services.csproj",
+        "packagesPath": "C:\\Users\\adm-sahooson\\.nuget\\packages\\",
+        "outputPath": "C:\\SKSFile\\GITSERVER\\DotNetCoreDI\\DI.Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\adm-sahooson\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\SKSFile\\GITSERVER\\DotNetCoreDI\\DI.Core.IRepository\\DI.Core.IRepository.csproj": {
+                "projectPath": "C:\\SKSFile\\GITSERVER\\DotNetCoreDI\\DI.Core.IRepository\\DI.Core.IRepository.csproj"
+              },
+              "C:\\SKSFile\\GITSERVER\\DotNetCoreDI\\DI.Core.Repository\\DI.Core.Repository.csproj": {
+                "projectPath": "C:\\SKSFile\\GITSERVER\\DotNetCoreDI\\DI.Core.Repository\\DI.Core.Repository.csproj"
+              },
+              "C:\\SKSFile\\GITSERVER\\DotNetCoreDI\\DI.Services.Contract\\DI.Services.Contract.csproj": {
+                "projectPath": "C:\\SKSFile\\GITSERVER\\DotNetCoreDI\\DI.Services.Contract\\DI.Services.Contract.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

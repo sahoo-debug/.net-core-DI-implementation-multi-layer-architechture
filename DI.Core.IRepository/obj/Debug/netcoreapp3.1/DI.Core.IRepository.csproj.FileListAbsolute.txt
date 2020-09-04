@@ -1,0 +1,16 @@
+C:\SKSFile\SKS.DI\DI.Core.IRepository\bin\Debug\netcoreapp3.1\DI.Core.IRepository.deps.json
+C:\SKSFile\SKS.DI\DI.Core.IRepository\bin\Debug\netcoreapp3.1\DI.Core.IRepository.dll
+C:\SKSFile\SKS.DI\DI.Core.IRepository\bin\Debug\netcoreapp3.1\DI.Core.IRepository.pdb
+C:\SKSFile\SKS.DI\DI.Core.IRepository\obj\Debug\netcoreapp3.1\DI.Core.IRepository.AssemblyInfoInputs.cache
+C:\SKSFile\SKS.DI\DI.Core.IRepository\obj\Debug\netcoreapp3.1\DI.Core.IRepository.AssemblyInfo.cs
+C:\SKSFile\SKS.DI\DI.Core.IRepository\obj\Debug\netcoreapp3.1\DI.Core.IRepository.csproj.CoreCompileInputs.cache
+C:\SKSFile\SKS.DI\DI.Core.IRepository\obj\Debug\netcoreapp3.1\DI.Core.IRepository.dll
+C:\SKSFile\SKS.DI\DI.Core.IRepository\obj\Debug\netcoreapp3.1\DI.Core.IRepository.pdb
+C:\SKSFile\GITSERVER\DotNetCoreDI\DI.Core.IRepository\bin\Debug\netcoreapp3.1\DI.Core.IRepository.deps.json
+C:\SKSFile\GITSERVER\DotNetCoreDI\DI.Core.IRepository\bin\Debug\netcoreapp3.1\DI.Core.IRepository.dll
+C:\SKSFile\GITSERVER\DotNetCoreDI\DI.Core.IRepository\bin\Debug\netcoreapp3.1\DI.Core.IRepository.pdb
+C:\SKSFile\GITSERVER\DotNetCoreDI\DI.Core.IRepository\obj\Debug\netcoreapp3.1\DI.Core.IRepository.AssemblyInfoInputs.cache
+C:\SKSFile\GITSERVER\DotNetCoreDI\DI.Core.IRepository\obj\Debug\netcoreapp3.1\DI.Core.IRepository.AssemblyInfo.cs
+C:\SKSFile\GITSERVER\DotNetCoreDI\DI.Core.IRepository\obj\Debug\netcoreapp3.1\DI.Core.IRepository.csproj.CoreCompileInputs.cache
+C:\SKSFile\GITSERVER\DotNetCoreDI\DI.Core.IRepository\obj\Debug\netcoreapp3.1\DI.Core.IRepository.dll
+C:\SKSFile\GITSERVER\DotNetCoreDI\DI.Core.IRepository\obj\Debug\netcoreapp3.1\DI.Core.IRepository.pdb
